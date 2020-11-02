@@ -1,4 +1,4 @@
-package ohtu.paaohjelma;
+package paaohjelma;
 
 import com.google.errorprone.annotations.Var;
 import ohtu.ohtuvarasto.Varasto;
