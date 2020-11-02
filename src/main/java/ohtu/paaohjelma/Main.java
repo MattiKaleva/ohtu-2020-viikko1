@@ -1,6 +1,7 @@
-package ohtu.ohtuvarasto;
+package ohtu.paaohjelma;
 
 import com.google.errorprone.annotations.Var;
+import ohtu.ohtuvarasto.Varasto;
 
 public class Main {
 
