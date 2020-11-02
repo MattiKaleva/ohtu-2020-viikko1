@@ -1,5 +1,7 @@
 package ohtu.ohtuvarasto;
 
+import com.google.errorprone.annotations.Var;
+
 public class Main {
 
     public static void main(String[] args) {
