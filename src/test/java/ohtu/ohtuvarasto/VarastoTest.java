@@ -42,7 +42,7 @@ public class VarastoTest {
     @Test
     public void kakkosKonstruktoriNegatiivinenAlkusaldo() {
         Varasto varastoKakkonenNegatiivinenSaldo = new Varasto(10, -69);
-        assertEquals(0, varastoKakkonenNegatiivinenSaldo.getSaldo(), vertailuTarkkuus);
+        assertEquals(0.0, varastoKakkonenNegatiivinenSaldo.getSaldo(), vertailuTarkkuus);
     }
 
     @Test
